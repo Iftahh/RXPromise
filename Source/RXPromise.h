@@ -772,4 +772,6 @@ typedef RXPromise* (^catch_on_main_block_t)(promise_errorHandler_t);
 
 @end
 
+#import "RXPromise+RXExtension.h"
+#import "RXSettledResult.h"
 
